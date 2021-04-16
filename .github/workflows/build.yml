@@ -36,7 +36,7 @@ jobs:
       run: |-
         git diff
         git config --global user.email "helloworldchen@qq.com"
-        git config --global user.name "wintermorn1ng-bot"
+        git config --global user.name "wintermorn1ng"
         git pull
         git add -A
         git commit -m "Updated content" || exit 0
