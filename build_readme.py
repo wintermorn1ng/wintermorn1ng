@@ -79,5 +79,5 @@ if __name__ == "__main__":
     entries_md = "\n".join(
         ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
     )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
+    rewritten = replace_chunk(readme_contents, "blog", entries_md)
     readme.open("w").write(rewritten)
