@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+
+<!-- blog starts -->
+
+<!-- blog ends -->
