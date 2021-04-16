@@ -60,7 +60,7 @@ query {
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://tw93.github.io/feed.xml")["entries"]
+    entries = feedparser.parse("http://feed.cnblogs.com/blog/u/678190/rss/")["entries"]
     return [
         {
             "title": entry["title"],
