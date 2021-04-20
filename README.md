@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 #### 🤹‍♀️ <a href="https://www.cnblogs.com/wintermorning/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='http://www.cnblogs.com/wintermorning/p/14680364.html' target='_blank'>常用git命令 - wintermorn1ng</a> - 2021-04-20
 * <a href='http://www.cnblogs.com/wintermorning/p/14649655.html' target='_blank'>常用linux系统管理与网络操作相关命令 - wintermorn1ng</a> - 2021-04-12
 <!-- blog ends -->
